@@ -1,3 +1,9 @@
+# Membros do grupo
+Gabriel Spanhol
+Gustavo Rocha
+Louise Bertipaglia
+Lucas Pacheco
+
 # Listas Encadeadas em Java
 
 Implementação de uma lista simplesmente encadeada de inteiros, usada na apresentação da Equipe 1 (Estrutura de Dados, IFSC São José).
